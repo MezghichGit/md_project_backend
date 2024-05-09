@@ -1,0 +1,5 @@
+C:\Users\amine\Desktop\app_c#\Chapitre1.exe
+C:\Users\amine\Desktop\app_c#\Chapitre1.dll
+C:\Users\amine\Desktop\app_c#\Chapitre1.deps.json
+C:\Users\amine\Desktop\app_c#\Chapitre1.runtimeconfig.json
+C:\Users\amine\Desktop\app_c#\Chapitre1.pdb

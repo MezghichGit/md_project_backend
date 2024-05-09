@@ -23,6 +23,8 @@ namespace Chapitre1
             {
                 Console.WriteLine("Marque : " + voiture.Marque + ", Prix : " + voiture.Prix + " EUR"+ " KM : "+voiture.getKilometrage());
             }
+
+            Console.ReadKey();
         }
 
     }

@@ -1,0 +1,15 @@
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\bin\Release\net8.0\Chapitre1.exe
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\bin\Release\net8.0\Chapitre1.deps.json
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\bin\Release\net8.0\Chapitre1.runtimeconfig.json
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\bin\Release\net8.0\Chapitre1.dll
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\bin\Release\net8.0\Chapitre1.pdb
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.AssemblyInfo.cs
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.sourcelink.json
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.dll
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\refint\Chapitre1.dll
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.pdb
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\Chapitre1.genruntimeconfig.cache
+C:\Users\amine\source\repos\TaskForceProject\Chapitre1\obj\Release\net8.0\ref\Chapitre1.dll
