@@ -30,10 +30,18 @@ namespace Chapitre1
         }
         static void Main(string[] args)
         {
-            Patient p1 = saisiePatient();
-            Patient p2 = saisiePatient();
+            List<Patient> patients = new List<Patient>();
 
-            List<Patient> patients = new List<Patient> {p1,p2 };
+            for (int i = 0; i < 3; i++) {
+                Patient patient = saisiePatient();
+                patients.Add(patient);
+            }
+
+            //Patient p1 = saisiePatient();
+            //Patient p2 = saisiePatient();
+
+            //List<Patient> patients = new List<Patient> {p1,p2 };
+            
             // Affichage des informations de chaque voiture
             foreach (Patient patient  in patients)
             {
