@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace Chapitre3
 {
+    public class CinException : Exception { 
+    
+        public CinException() { }
+        public CinException(string message) {
+           Console.WriteLine("*** Classe CinException *** : " + message);
+            // define your custom traitement (write in log file, send email ...)
+        }
+
+    }
     public class LesExceptions
     {
         public static void saisieData() {
@@ -36,18 +45,18 @@ namespace Chapitre3
 
                 if (!isCinNumber)
                 {
-                    throw new ArgumentException("CIN invalide, doit être numérique");
+                    throw new CinException("CIN invalide, doit être numérique");
                 }
                 else {
                     if (cin.Length != 8)
                     {
-                        throw new ArgumentException("CIN invalide, doit avoir une taille de 8");
+                        throw new CinException("CIN invalide, doit avoir une taille de 8");
                     }
                     else Console.WriteLine("CIN valide : {0} ", cinNumerique);
 
                 }
             }
-            catch (ArgumentException e)
+            catch (CinException e)
             {
                 Console.WriteLine(e.Message);
             }
@@ -62,36 +71,42 @@ namespace Chapitre3
         public static void Main(String[] args)
         {
             saisieData();
+            
             /*
-
             decimal x = 10;
             decimal y = 10;
-            */
 
 
 
-            /* try
-             {
-                 //Console.WriteLine("x/y = {0}", (x / y));
-                 //int[] tab = { 10, 20 };
-                 //Console.WriteLine("tab[2] = {0}", tab[2]);
+
+            try
+            {
+                Console.WriteLine("x/y = {0}", (x / y));
+                //int[] tab = { 10, 20 };
+                //Console.WriteLine("tab[2] = {0}", tab[2]);
                 // saisieAge(12);
-             }
-             catch (ArgumentException e)
-             {
-                 Console.WriteLine("Problème : {0}", e.Message);
-             }
-             catch (ArithmeticException e)
-             {
-                 Console.WriteLine("Problème de calcul : {0}", e.Message);
-                 Console.WriteLine(e.StackTrace);
-             }
-             catch (Exception e)
-             {
-                 Console.WriteLine("Exception générale : {0}", e.Message);
-                 Console.WriteLine(e.StackTrace);
-             }
-             Console.WriteLine("Suite du programme...");*/
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine("Problème : {0}", e.Message);
+            }
+            catch (ArithmeticException e)
+            {
+                Console.WriteLine("Problème de calcul : {0}", e.Message);
+                //Console.WriteLine(e.StackTrace);
+                //throw new Exception("Beug");
+                return; // provoque la sortie immédiate de la méthode
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception générale : {0}", e.Message);
+                Console.WriteLine(e.StackTrace);
+
+            }
+            finally // forcer l'exécution de ces instructions
+            {
+                Console.WriteLine("Suite du programme...");
+            }*/
         }
     }
 }
