@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnexionOracle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98580855ebf8fc54df8f993a79e1526b6ae8c10c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e525488bc724bae5b2e499f53ec338fbd1f39b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnexionOracle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnexionOracle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
