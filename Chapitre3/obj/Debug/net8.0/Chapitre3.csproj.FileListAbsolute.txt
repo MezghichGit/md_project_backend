@@ -1,0 +1,15 @@
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\bin\Debug\net8.0\Chapitre3.exe
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\bin\Debug\net8.0\Chapitre3.deps.json
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\bin\Debug\net8.0\Chapitre3.runtimeconfig.json
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\bin\Debug\net8.0\Chapitre3.dll
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\bin\Debug\net8.0\Chapitre3.pdb
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.AssemblyInfo.cs
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.sourcelink.json
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.dll
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\refint\Chapitre3.dll
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.pdb
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\Chapitre3.genruntimeconfig.cache
+C:\Users\amine\source\repos\TaskForceProject\Chapitre3\obj\Debug\net8.0\ref\Chapitre3.dll
